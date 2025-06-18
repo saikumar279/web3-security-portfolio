@@ -39,9 +39,6 @@ Welcome! I’m **saikumar279**, a **Web3 Security Researcher** focused on **smar
 ---
 
 
-
----
-
 ## 🤝 Collaborations / Available For
 
 - Private Audit Engagements (Individual / Team)
