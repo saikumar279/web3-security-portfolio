@@ -24,6 +24,7 @@ Welcome! I’m **saikumar279**, a **Web3 Security Researcher** focused on **smar
 | Cantina          | Story Protocol        | 4 Valid 🐞 (1 High,1 Medium,1 Low, 1 Informational)      |     $9958.51        | [Results](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58/leaderboard)        |
 | CodeHawks         | Regnum Aurum Acquisition Corp        | 9 Valid 🐞 (5 High,3 Medium,1 Low)     | $80.77       | [Results](https://codehawks.cyfrin.io/c/2025-02-raac/results)        |
 | Cantina         | alchemix-v3        |2 Valid 🐞 (2 High)     | $39.09       | [Results](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview/leaderboard)        |
+| Immunefi         | Flare Fasset        |2 Valid 🐞 (2 Low)     | $1218.03       | [Results](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/)        |
 <!-- Add more rows as you participate in more contests -->
 
 ---
