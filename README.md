@@ -51,8 +51,7 @@ Welcome! I’m **Saikumar**, Co-Founder and Security Researcher at **Radcipher**
 
 ## 🤝 Collaborations / Available For
 
-- Private Audit Engagements (Individual / Team)
-- Partnerships with Audit Firms for Manual Reviews
+- **Dm for Radcipher Private Audits**
 - **Looking for growth partners who value security-first development**
 
 ---
