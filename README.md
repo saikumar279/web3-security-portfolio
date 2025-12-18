@@ -28,6 +28,15 @@ Welcome! I’m **Saikumar**, Co-Founder and Security Researcher at **Radcipher**
 | Immunefi         | Attackathon Plume Network        |10 Valid 🐞 (6 High 2 Medium/Lows 2 Insights)     | $1610       | [Results](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/)        |
 <!-- Add more rows as you participate in more contests -->
 
+
+### 🐞 Bug Bounties (Responsible Disclosure)
+
+Real-world vulnerabilities responsibly disclosed to live protocols through bug bounty programs.
+
+| Platform   | Protocol / Project | Severity | Reward | Status / Proof |
+|-----------|--------------------|----------|--------|----------------|
+| Cantina  | Story      | 1 Medium 1 Low    | $3100 | [Profile](http://cantina.xyz/u/saikumar279/public-reviews/bounties) |
+
 ---
 
 ### Private Audits 
