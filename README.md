@@ -29,7 +29,7 @@ Welcome! I’m **Saikumar**, Co-Founder and Security Researcher at **Radcipher**
 <!-- Add more rows as you participate in more contests -->
 
 
-### 🐞 Bug Bounties (Responsible Disclosure)
+### 🐞 Bug Bounties
 
 Real-world vulnerabilities responsibly disclosed to live protocols through bug bounty programs.
 
