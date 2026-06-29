@@ -1,6 +1,6 @@
 # 🛡️ Web3 Security Portfolio
 
-Welcome! I’m **Saikumar**, Co-Founder and Security Researcher at **Radcipher**, specializing in **Web3 smart contract security** through public contests, private audits, and collaborations with leading protocols.Dm for Radcipher Private Audits.
+Welcome! I’m **Saikumar**, Security Researcher at **Radcipher**, specializing in **Web3 smart contract security** through public contests, private audits, and collaborations with leading protocols.
 
 ## 🚀 Why Work With Me?
 
